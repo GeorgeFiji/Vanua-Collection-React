@@ -91,10 +91,9 @@ export const MasonryGallery = () => {
     <section className='masonry-container'>
       <header className='masonry-header'>
         <div className='masonry-info'>
-          <h2 className='masonry-title'>Latest works</h2>
+          <h2 className='masonry-title'>Vanua Collective</h2>
           <p className='masonry-subtitle'>
-            Sed nec sit malesuada cursus dolor accumsan massa semper enim.
-            Egestas vel ac consectetur enim.
+           Vanua Collective. A Collection For The Vanua of Fiji.
           </p>
         </div>
         <nav className='masonry-filter'>
