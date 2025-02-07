@@ -128,7 +128,7 @@ export const MasonryGallery = () => {
                 : 'masonry-filter-inactive'
             }
           >
-            Neon
+            Sunsets
           </button>
           <button
             type='button'
